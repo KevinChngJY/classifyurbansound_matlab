@@ -15,7 +15,7 @@ Street Music
 
 The accompanying metadata contains a unique ID for each sound excerpt along with it's given class name. A sample of this dataset is included with the accompanying git repo and the full dataset can be downloaded from here.    
             
-            There are 7 milestones in this example :
+There are 7 milestones in this example :
             
 Milestone 1 : Introduction to the Example, Explore and Visualize the Data
 Milestone 2 : Data Pre-processing and Extracting Features using Diagnostic App Designer (Signal Time-Domain Features & Spectral Features)
