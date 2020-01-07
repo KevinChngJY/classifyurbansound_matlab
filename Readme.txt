@@ -1,10 +1,6 @@
-Overview :
+<h1>Overview :</h1>
             
-            The credits for this example go to Ian Alfred. He drafted this example, I modified the example to explain my insight and solution.
-            
-            For this example, we are going to classify Urban sounds dataset using Machine Learning. Please be take note, i would not explain deep learning technique, although people generally believe deep learning technique could get higher accuracy. Let see what can we do with Machine Learning first.
-            
-            For this project we will use a dataset called Urbansound8K. The dataset contains 8732 sound excerpts (<=4s) of urban sounds from 10 classes, which are:
+The credits for this example go to Ian Alfred. He drafted this example, I modified the example to explain my insight and solution. For this example, we are going to classify Urban sounds dataset using Machine Learning. Please be take note, i would not explain deep learning technique, although people generally believe deep learning technique could get higher accuracy. Let see what can we do with Machine Learning first. For this project we will use a dataset called Urbansound8K. The dataset contains 8732 sound excerpts (<=4s) of urban sounds from 10 classes, which are:
             
 Air Conditioner
 Car Horn
